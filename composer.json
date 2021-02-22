@@ -2,7 +2,7 @@
     "name": "msm-cli/msm-laravel",
     "description": "msm laravel cli",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "php": "^7.2"
     },

@@ -1,8 +1,5 @@
 <?php
-
-
 namespace MSM\Repository;
-
 
 interface IRepository
 {
