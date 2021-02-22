@@ -1,0 +1,21 @@
+{
+    "name": "msm-cli/msm-laravel",
+    "description": "msm laravel cli",
+    "license": "MIT",
+    "version": "1.0.1",
+    "require": {
+        "php": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "sajadweb",
+            "email": "sajadweb7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MSM\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
